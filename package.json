@@ -1,11 +1,19 @@
 {
   "name": "namaste_react",
   "version": "1.0.0",
-  "description": "",
+  "description": "first react app",
   "main": "App.js",
   "scripts": {
     "test": "jest"
   },
   "author": "Hemant",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemxnt/React-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hemxnt/React-app/issues"
+  },
+  "homepage": "https://github.com/Hemxnt/React-app#readme"
 }
